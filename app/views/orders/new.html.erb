@@ -1,0 +1,13 @@
+Enter Info to complete delivery
+
+<%= form_for @order do |f|%>
+<%= f.label 'name'%>
+<%= f.text_field 'name'%> <br/>
+<%= f.label 'email'%>
+<%= f.text_field 'email'%><br/>
+<%= f.label 'address'%>
+<%= f.text_field 'address'%><br/>
+<%= f.label 'total'%>
+<%= f.text_field 'total'%><br/>
+<%= f.submit 'see invoice'%>
+	<%end%>

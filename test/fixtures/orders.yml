@@ -1,0 +1,39 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  btc_address: MyString
+  name: MyString
+  string: MyString
+  address: MyString
+  text: MyString
+  email: MyString
+  string: MyString
+  total: MyString
+  decimal: MyString
+  country: MyString
+  string: MyString
+  city: MyString
+  string: MyString
+  zip_code: MyString
+  string: MyString
+  qrcode_string: MyString
+  string: MyString
+
+two:
+  btc_address: MyString
+  name: MyString
+  string: MyString
+  address: MyString
+  text: MyString
+  email: MyString
+  string: MyString
+  total: MyString
+  decimal: MyString
+  country: MyString
+  string: MyString
+  city: MyString
+  string: MyString
+  zip_code: MyString
+  string: MyString
+  qrcode_string: MyString
+  string: MyString
